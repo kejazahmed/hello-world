@@ -5,3 +5,5 @@ Two more files added.
 Next change done.
 
 These changes are going into new branch.
+
+Some other changes to new branch.
